@@ -6,8 +6,5 @@ Key Features:
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
 ![Customer Churn Dashboard](https://raw.githubusercontent.com/7777Nitin/power-bi-4/main/Customer%20Churn%20Dashboard.png)
 
-Built with:
-Power BI Desktop
-Excel
-Key Insights:
+![Customer Risk Analysis]
 
